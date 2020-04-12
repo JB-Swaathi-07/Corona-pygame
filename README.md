@@ -1,6 +1,6 @@
 # GAME DEVELOPMENT USING PYGAME
 
-## Project Title - ** Kill Corona **
+## Project Title - **Kill Corona**
 
 ### Team Members
 1. Swaathi J B 
